@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sid Ahmed BENAISSA</h1>
-<h3 align="center">Je suis développeur Fullstack</h3>
+<h3 align="center">i'm a Fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
